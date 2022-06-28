@@ -1,17 +1,18 @@
 ## Calculadora Simples
 
 
+
+## 📝 Descrição
+
+Uma calculadora simples, criada para fazer as operações básicas da matemática 
+
+
 **Calculadora com operacoes simples:**
 
  (+)  → SOMAR                                                                 
  (-) → SUBTRAIR  
  (*) → MULTIPLICAR                                                                                                                                                
  (/) → DIVIDIR
-
-**********************************
-## 📝 Descrição
-
-Uma calculadora simples, criada para fazer as operações básicas da matemática 
 
 
 ## 🚀 Tecnologia
